@@ -1,0 +1,147 @@
+Windows PowerShell
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Install the latest PowerShell for new features and improvements! https://aka.ms/PSWindows
+
+PS C:\Users\mz-ab\OneDrive\Desktop\Python> & C:/Users/mz-ab/AppData/Local/Programs/Python/Python311/python.exe c:/Users/mz-ab/OneDrive/Desktop/Python/test.py
+Welcome to Circle Phones' Profit calculator.
+You can calculate the profit of the company according to a specific day or by a week or divide
+ the week into weekdays and weekend
+ Enter:
+ 1 - For specific Day
+ 2 - For the Week
+ 3 - For Week Business Days
+ 4 - For Weekend days
+ 0 - Exit
+ 1
+Enter a specific day [Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday]:
+ Monday
+For Monday
+Enter the product category (1-5) or 0 to stop:
+ 1
+Enter quantity sold:
+ 37
+Enter the product category (1-5) or 0 to stop:
+ 4
+Enter quantity sold:
+ 52
+Enter the product category (1-5) or 0 to stop:
+ 0
+
+Your total profit for Monday: $7874.61
+We didn't reach our goal for this Monday. More work is needed.
+You can calculate the profit of the company according to a specific day or by a week or divide
+ the week into weekdays and weekend.
+ Enter:
+ 1 - For specific Day
+ 2 - For the Week
+ 3 - For Week Business Days
+ 4 - For Weekend days
+ 0 - Exit
+ 2
+For Monday
+Enter the product category (1-5) or 0 to stop:
+ 2
+Enter quantity sold:
+ 600
+Enter the product category (1-5) or 0 to stop:
+ 0
+For Tuesday
+Enter the product category (1-5) or 0 to stop:
+ 0
+For Wednesday
+Enter the product category (1-5) or 0 to stop:
+ 0
+For Thursday
+Enter the product category (1-5) or 0 to stop:
+ 0
+For Friday
+Enter the product category (1-5) or 0 to stop:
+ 0
+For Saturday
+Enter the product category (1-5) or 0 to stop:
+ 0
+For Sunday
+Enter the product category (1-5) or 0 to stop:
+ 3
+Enter quantity sold:
+ 500
+Enter the product category (1-5) or 0 to stop:
+ 0
+
+Your total profit for the week: $97545.00
+You did well this week! Keep up the great work!
+You can calculate the profit of the company according to a specific day or by a week or divide
+ the week into weekdays and weekend.
+ Enter:
+ 1 - For specific Day
+ 2 - For the Week
+ 3 - For Week Business Days
+ 4 - For Weekend days
+ 0 - Exit
+ 3
+For Monday
+Enter the product category (1-5) or 0 to stop:
+ 5
+Enter quantity sold:
+ 900
+Enter the product category (1-5) or 0 to stop:
+ 0
+For Tuesday
+Enter the product category (1-5) or 0 to stop:
+ 0
+For Wednesday
+Enter the product category (1-5) or 0 to stop:
+ 0
+For Thursday
+Enter the product category (1-5) or 0 to stop:
+ 0
+For Friday
+Enter the product category (1-5) or 0 to stop:
+ 0
+
+Your total profit for the week (business days): $46341.00
+You did well this week (buisness days)! Keep up the great work!
+You can calculate the profit of the company according to a specific day or by a week or divide
+ the week into weekdays and weekend.
+ Enter:
+ 1 - For specific Day
+ 2 - For the Week
+ 3 - For Week Business Days
+ 4 - For Weekend days
+ 0 - Exit
+ 4
+For Saturday
+Enter the product category (1-5) or 0 to stop:
+ 4
+Enter quantity sold:
+ 600
+Enter the product category (1-5) or 0 to stop:
+ 0
+For Sunday
+Enter the product category (1-5) or 0 to stop:
+ 0
+
+Your total profit for the weekend: $39438.00
+You did well this weekend! Keep up the great work!
+You can calculate the profit of the company according to a specific day or by a week or divide
+ the week into weekdays and weekend.
+ Enter:
+ 1 - For specific Day
+ 2 - For the Week
+ 3 - For Week Business Days
+ 4 - For Weekend days
+ 0 - Exit
+ 5
+Invalid input. Please enter a number between 1 and 4 or 0 to stop the program!
+You can calculate the profit of the company according to a specific day or by a week or divide
+ the week into weekdays and weekend.
+ Enter:
+ 1 - For specific Day
+ 2 - For the Week
+ 3 - For Week Business Days
+ 4 - For Weekend days
+ 0 - Exit
+ 0
+Program End!
+PS C:\Users\mz-ab\OneDrive\Desktop\Python>

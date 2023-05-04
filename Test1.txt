@@ -1,0 +1,23 @@
+Windows PowerShell
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Install the latest PowerShell for new features and improvements! https://aka.ms/PSWindows
+
+PS C:\Users\mz-ab\OneDrive\Desktop\Python> & C:/Users/mz-ab/AppData/Local/Programs/Python/Python311/python.exe c:/Users/mz-ab/OneDrive/Desktop/Python/Assignment2_par
+t1.py
+Welcome to Circle Phones' Profit calculator.
+Enter the product category (1-5) or 0 to stop:
+ 5
+Enter quantity sold:
+ 3
+Enter the product category (1-5) or 0 to stop:
+ 1
+Enter quantity sold:
+ 2
+Enter the product category (1-5) or 0 to stop:
+ 7
+Invalid input, please enter a valid number
+Enter the product category (1-5) or 0 to stop:
+ 0
+Your total profit for today is: 395.37
+PS C:\Users\mz-ab\OneDrive\Desktop\Python>
